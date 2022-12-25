@@ -29,3 +29,4 @@ print(root)
 m = hex(int(root))[2:-1] # Number to hex
 m = ''.join(chr(int(m[i:i+2], 16)) for i in range(0, len(m), 2)) # Hex to Ascii
 print(m)
+#Muon code từ 1 bác đã solve
